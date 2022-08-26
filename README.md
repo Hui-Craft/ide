@@ -14,4 +14,5 @@ node .
 ## Config file
 `port` - the port the app will run on
 
-`paths` - array
+`paths` - object
+`paths.java` - the path where `Java` is located
