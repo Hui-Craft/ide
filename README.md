@@ -10,3 +10,8 @@ npm install
 ```bash
 node .
 ```
+
+## Config file
+`port` - the port the app will run on
+
+`paths` - array
