@@ -1,0 +1,20 @@
+{
+  "name": "container",
+  "version": "1.0.0",
+  "description": "An online IntelliJ alternative for developing minecraft Plugins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hui-Craft/ide.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hui-Craft/ide/issues"
+  },
+  "homepage": "https://github.com/Hui-Craft/ide#readme"
+}
