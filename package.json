@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Hui-Craft/ide/issues"
   },
-  "homepage": "https://github.com/Hui-Craft/ide#readme"
+  "homepage": "https://github.com/Hui-Craft/ide#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
