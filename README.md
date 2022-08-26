@@ -15,4 +15,9 @@ node .
 `port` - the port the app will run on
 
 `paths` - object
+
 `paths.java` - the path where `Java` is located
+
+`paths.javac` - the path where `Javac` is located
+
+`paths.maven` -  the path where `mvm` is located
